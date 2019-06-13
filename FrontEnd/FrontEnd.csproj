@@ -67,6 +67,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CodeTheWay.html" />
+    <Content Include="HeroesForHealthcare.html" />
+    <Content Include="Images\CodeTheWay Logo %281%29.png" />
+    <Content Include="Images\Definition of done.jpg" />
+    <Content Include="Images\Heroes Logo.png" />
+    <Content Include="Images\Heroes2.png" />
+    <Content Include="Images\Heroes3.png" />
+    <Content Include="Images\LifeNavigators1.jpg" />
+    <Content Include="Images\LifeNavigators2.jpg" />
+    <Content Include="Images\Project Management.jpg" />
+    <Content Include="Images\Team Learning.jpg" />
+    <Content Include="Images\To do list.jpg" />
+    <Content Include="Images\Update.jpg" />
+    <Content Include="Images\Work Time.jpg" />
+    <Content Include="LifeNavigators.html" />
+    <Content Include="Media.html" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
